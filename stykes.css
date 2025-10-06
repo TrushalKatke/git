@@ -1,7 +1,7 @@
 nav{
     height: 10vh;
     width: 100vw;
-    background-color: aqua;
+    background-color: rgb(21, 22, 22);
     display: flex;
     justify-content: center;
 }
